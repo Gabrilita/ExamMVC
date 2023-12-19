@@ -14,15 +14,13 @@ namespace TaskExam
             try
             {
                 TaskExamActionController exam = new TaskExamActionController();
-
             }
-            //catch (ArgumentException)
-            //{
-            //    Console.WriteLine("ARGUMENT ECXEPTION");
-            //}
+            catch (ArgumentException)
+            {
+                Console.WriteLine("ARGUMENT ECXEPTION");
+            }
             catch (FormatException)
             {
-
                 Console.WriteLine("WRONG FORMAT");
             }
         }

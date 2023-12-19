@@ -12,7 +12,7 @@ namespace AreULateEarlyOnTimeExam
         [TestMethod]
         public void IsExamHourBiggerThanHourOfArrival()
         {
-            var exam = new Exam
+            var exam = new Exam//promenliata dostupva na property-tata na modela
             {
                 HourOfExam = 13,
                 MinuteOfExam = 20,

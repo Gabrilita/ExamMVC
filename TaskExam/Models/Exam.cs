@@ -12,11 +12,7 @@ namespace TaskExam.Models
         private int minuteOfExam;
         private int hourOfArrival;
         private int minuteOfArrival;
-        public string OutputNotice
-        {
-            get;
-            set;
-        }
+        public string OutputNotice{ get; set; }
 
         public int HourOfExam
         {
@@ -126,7 +122,6 @@ namespace TaskExam.Models
                     if (hoursDifference<=0)
                     {
                         OutputNotice = $"\nEarly\n{minutesDifference} minutes before the start\n";
-
                     }
                     else
                     {
