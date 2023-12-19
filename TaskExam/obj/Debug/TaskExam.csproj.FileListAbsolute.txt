@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\bin\Debug\TaskExam.exe.config
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\bin\Debug\TaskExam.exe
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\bin\Debug\TaskExam.pdb
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\obj\Debug\TaskExam.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\obj\Debug\TaskExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\obj\Debug\TaskExam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\obj\Debug\TaskExam.exe
+C:\Users\Admin\source\repos\ProjectExam\TaskExam\obj\Debug\TaskExam.pdb
