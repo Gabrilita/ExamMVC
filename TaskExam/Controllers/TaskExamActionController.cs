@@ -21,8 +21,8 @@ namespace TaskExam.Controllers
             model.MinuteOfArrival = display.MinuteOfArrival;
             model.HourOfExam = display.HourOfExam;
             model.MinuteOfExam = display.MinuteOfExam;
-            display.OutputNotice = model.AreYouOnTimeLateOrEarly();
-           display.Output();
+            display.OutputNotice = model.AreYouOnTimeLateOrEarly(); 
+            display.Output(); 
         }
     }
 }
