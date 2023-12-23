@@ -98,7 +98,7 @@ namespace TaskExam.Models
                     else
                     if (minutesDifference >= -30 && minutesDifference < 0)
                     {
-                        OutputNotice = $"\nOn Time\n{minutesDifference} minutes before the start\n";
+                        OutputNotice = $"\nOn Time\n{Math.Abs(minutesDifference)} minutes before the start\n";
                     }
                     else
                     {
